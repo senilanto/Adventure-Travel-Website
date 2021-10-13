@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Adventure-Travel-Website/static/css/main.482f2d60.chunk.css",
+    "main.js": "/Adventure-Travel-Website/static/js/main.52c0de82.chunk.js",
+    "main.js.map": "/Adventure-Travel-Website/static/js/main.52c0de82.chunk.js.map",
+    "runtime-main.js": "/Adventure-Travel-Website/static/js/runtime-main.db3ac75e.js",
+    "runtime-main.js.map": "/Adventure-Travel-Website/static/js/runtime-main.db3ac75e.js.map",
+    "static/css/2.4be38407.chunk.css": "/Adventure-Travel-Website/static/css/2.4be38407.chunk.css",
+    "static/js/2.29f8d191.chunk.js": "/Adventure-Travel-Website/static/js/2.29f8d191.chunk.js",
+    "static/js/2.29f8d191.chunk.js.map": "/Adventure-Travel-Website/static/js/2.29f8d191.chunk.js.map",
+    "index.html": "/Adventure-Travel-Website/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Adventure-Travel-Website/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.482f2d60.chunk.css.map": "/Adventure-Travel-Website/static/css/main.482f2d60.chunk.css.map",
+    "static/js/2.29f8d191.chunk.js.LICENSE.txt": "/Adventure-Travel-Website/static/js/2.29f8d191.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db3ac75e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.29f8d191.chunk.js",
+    "static/css/main.482f2d60.chunk.css",
+    "static/js/main.52c0de82.chunk.js"
+  ]
+}
